@@ -1,0 +1,28 @@
+{
+  "name": "comp229-jin_yoo",
+  "version": "1.0.0",
+  "description": "demo for week2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjyoo03/COMP229-Jin_Yoo.git"
+  },
+  "keywords": [
+    "Jin",
+    "Yoo",
+    "-",
+    "301161657"
+  ],
+  "author": "Jin Yoo - 301161657",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjyoo03/COMP229-Jin_Yoo/issues"
+  },
+  "homepage": "https://github.com/jjyoo03/COMP229-Jin_Yoo#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
